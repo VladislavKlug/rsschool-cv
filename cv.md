@@ -16,3 +16,7 @@
 **BSAA**(*Belarussian State Academy of Aviation*)
 
 Bachelor's Degree in Mechanical engineer
+### Languages ###
+English - Intermediate
+
+German - Elementary

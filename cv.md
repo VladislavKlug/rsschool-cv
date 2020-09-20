@@ -12,3 +12,7 @@
 - experience with HTML5, CSS3, JS;
 - experience in creating HTML pages based on design layouts;
 - skills of linking scripts to the user interface that provide visualization and animation of site pages.
+### Education ###
+**BSAA**(*Belarussian State Academy of Aviation*)
+
+Bachelor's Degree in Mechanical engineer
